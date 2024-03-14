@@ -46,11 +46,11 @@ section .container{
     justify-content: space-between;
 }
 
-/* Classe criada para diminuir o tamanha da img*/
+
 .brands-list img{ 
     height: 24px;
 }
-/* Comando usando a mesma classe para deixae as img alinhadas*/
+
 .brands-list li{
     display: inline;
     margin-right: 8px;
